@@ -1,0 +1,11 @@
+.SearchInput {
+    width: 20%;
+    height: 30px;
+}
+.SearchButton {
+    width: 5%;
+    height: 37px;
+    background-color: yellow;
+    border: 0px;
+    border-radius: 15%;
+}
